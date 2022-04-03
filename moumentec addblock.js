@@ -1,4 +1,4 @@
-// Adblock
+// Adblock Moumentec
 ! function() {
   function f() {
     var a = document.createElement("div");
